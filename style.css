@@ -12,6 +12,7 @@ h1, h2 {
 a {
     font-weight: bold;
     color:28527a;
+    text-decoration: none;
 }
 
 a:hover {
@@ -34,7 +35,7 @@ a:hover {
 }
 
 .btn-blue {
-  background-color: blue;
+  background-color: 28527a;
   color: white;
   padding: 8px 24px;
   border-radius: 6px;
@@ -42,7 +43,7 @@ a:hover {
 }
 
 .btn-blue:hover {
-  background-color: skyblue;
+  background-color: 8ac4d0;
   color: white;
 }
 
@@ -57,12 +58,12 @@ a:hover {
 
 .social-icon{
   font-size: 30px;
-  color: blue;
+  color: 28527a;
   margin: 8px 24px;
 }
 
 .social-icon:hover {
-  color: skyblue;
+  color: 8ac4d0;
 }
 
 @media (max-width: 960px) {
